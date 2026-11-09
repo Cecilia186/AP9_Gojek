@@ -64,9 +64,13 @@ AP9_Gojek/
 5. Scan QR Code menggunakan Expo Go.
 
 ## Screenshot Aplikasi
-Tambahkan screenshot hasil aplikasi pada bagian ini.
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/db8eb493-e9fb-47e7-bf0c-0b9ee3f0b42c" />
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4dcb4a3e-5ac7-4573-8520-94e56ea7e75b" />
+
 
 ## Expo Snack
 Link: (https://snack.expo.dev/@cecilia186/ap9_tugasgojek_cecilia)
 ## GitHub Repository
 https://github.com/Cecilia186/AP9_Gojek
+## Google Docs teory Cecilia
+https://docs.google.com/document/d/1p0GYjqAlYgha21d19VHKSD1Fw1vfzjJMZqhuHUZeZQI/edit?usp=sharing
