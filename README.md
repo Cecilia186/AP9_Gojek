@@ -67,7 +67,6 @@ AP9_Gojek/
 Tambahkan screenshot hasil aplikasi pada bagian ini.
 
 ## Expo Snack
-Link: [Masukkan link Expo Snack jika sudah tersedia]
-
+Link: (https://snack.expo.dev/@cecilia186/ap9_tugasgojek_cecilia)
 ## GitHub Repository
 https://github.com/Cecilia186/AP9_Gojek
